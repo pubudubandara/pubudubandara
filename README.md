@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Spring Boot**  
 - 👯 I’m looking to collaborate on **Open-source projects**  
 - 💬 Ask me about **MERN stack, Next.js**  
-- 👨‍💻 All of my projects are available at **[https://pubudu-bandara.vercel.app/](https://pubudu-bandara.vercel.app/) ** 
+- 👨‍💻 All of my projects are available at [https://pubudu-bandara.vercel.app/](https://pubudu-bandara.vercel.app/)  
 - 📫 How to reach me **pubudumb@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
