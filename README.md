@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pubudu Bandara</h1>
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
-- 🎓 Undergraduate at **University of Moratuwa**  
-- 🌱 I’m currently learning **Spring Boot**  
-- 👯 I’m looking to collaborate on **Open-source projects**  
-- 💬 Ask me about **MERN stack, Next.js**  
-- 👨‍💻 All of my projects are available at [https://pubududev.me/]((https://pubududev.me)/)  
+- 🎓 Undergraduate at **University of Moratuwa**
+- 🌱 I’m currently learning **DevOps**
+- 👯 I’m looking to collaborate on **Open-source projects**
+- 💬 Ask me about **MERN stack, Next.js, Spring Boot**
+- 👨‍💻 All of my projects are available at [pubududev.me](https://pubududev.me)
 - 📫 How to reach me **pubudumb@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
